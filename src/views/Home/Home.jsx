@@ -11,6 +11,8 @@ export default function Home() {
       <p>chnages made to the branch</p>
 
 
+      <p>made on mac</p>
+
     </div>
   );
 
