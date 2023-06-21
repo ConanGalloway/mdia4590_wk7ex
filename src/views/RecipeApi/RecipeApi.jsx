@@ -38,6 +38,8 @@ export default function RecipeApi() {
         <div>
             <h1>Recipe API</h1>
 
+            <p>Another note to push</p>
+
             <hr />
 
             <div>
