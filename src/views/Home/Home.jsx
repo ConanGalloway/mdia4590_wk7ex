@@ -7,8 +7,7 @@ export default function Home() {
     <div>
       <h1>MDIA 4590 - Week 04 Lab</h1>
 
-      <p>removed and changed</p>
-      <p>change from windows</p>
+      <p>change message</p>
 
 
     </div>
