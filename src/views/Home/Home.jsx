@@ -10,8 +10,10 @@ export default function Home() {
       <p>change message</p>
       <p>changes made to the branch...</p>
 
+
+      <p>made on mac 2</p>
       <p>made on windows</p>
-      <p>made on mac</p>
+      
 
     </div>
   );
