@@ -11,7 +11,7 @@ export default function Home() {
       <p>changes made to the branch...</p>
 
 
-      <p>made on mac</p>
+      <p>made on mac 2</p>
 
     </div>
   );
